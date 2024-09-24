@@ -11,9 +11,9 @@ This is a simple calculator project built with HTML, CSS, and JavaScript. It pro
 
 ## Demo
 
-You can try out the live calculator here: [Live Site URL](https://your-live-site-url.com)
+You can try out the live calculator here: [Live Site URL](https://calculator-pi-ten-25.vercel.app)
 
-(Replace `https://your-live-site-url.com` with the actual URL of your deployed calculator)
+
 
 ## Screenshot
 ## Mobile-design
