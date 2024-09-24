@@ -17,7 +17,7 @@ You can try out the live calculator here: [Live Site URL](https://your-live-site
 
 ## Screenshot
 
-![Calculator Screenshot]()
+![Calculator Screenshot](./images/mobile-design.png)
 
 ## Technologies Used
 
