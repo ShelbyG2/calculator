@@ -11,7 +11,7 @@ This is a simple calculator project built with HTML, CSS, and JavaScript. It pro
 
 ## Demo
 
-You can try out the live calculator here: [Live Site URL](https://calculator-pi-ten-25.vercel.app)
+You can try out the live calculator here: [Live Site URL](https://calculator-blond-omega-43.vercel.app/)
 
 
 
