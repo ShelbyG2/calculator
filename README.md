@@ -16,9 +16,11 @@ You can try out the live calculator here: [Live Site URL](https://your-live-site
 (Replace `https://your-live-site-url.com` with the actual URL of your deployed calculator)
 
 ## Screenshot
+## Mobile-design
 
 ![Calculator Screenshot](./images/mobile-design.png)
-
+## Desktop-design
+![Calculator Screenshot](./images/desktop-design.png)
 ## Technologies Used
 
 - HTML5
